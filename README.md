@@ -1,2 +1,2 @@
 # Forums
-Forums website let's go!
+Just a website

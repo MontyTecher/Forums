@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    margin: 0.5rem;
+}
+main{
+    height: 10rem;
+    width: 100%;
+    background-color: green;
+    margin:0.1rem;
+    display:flex;
+    justify-content: center;
+}
+.search{
+    background-color:purple;
+    height:3rem;
+    width:100%;
+}
+.navbar{
+    width:100%;
+    height:3rem;
+    background-color:blue;
+}
+#accent{
+    background-color:red;
+    height:0.5rem;
+}
+.forum-container{
+    display:flex;
+    flex-direction:column;
+    height:10rem;
+    margin:auto;
+    width:98%;
+    background-color:lime;
+    align-items:center;
+}
+.post{ 
+    display:flex;
+    height:2rem;
+    width:98%;
+    background-color:firebrick;
+    margin:auto;
+}
